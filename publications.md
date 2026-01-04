@@ -1,3 +1,5 @@
+[Home](/README.md) // [Publications](/publications.md) // [Academic and Employment History](/my_history.md) // [Teaching Experience](/teaching.md)
+
 # Published Research
 
 K.I. Turk, A. Hutchings, Spy-oT: Understanding How Users Discover Malicious Uses of Internet of Things Devices in Domestic Abuse Scenarios, In Proceedings of the Twenty First Symposium on Usable Privacy and Security (SOUPS 2025) 2025.
