@@ -1,3 +1,5 @@
+[Home](/README.md) // [Publications](/publications.md) // [Academic and Employment History](/my_history.md) // [Teaching Experience](/teaching.md)
+
 # Academic Qualifications
 * PhD Computer Science, 2021-Present, Wolfson College, University of Cambridge.
 * MEng Hons. Computer Science (Pass with Honours), 2020-2021, Gonville and Caius College, University of Cambridge.
