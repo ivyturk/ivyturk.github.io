@@ -1,8 +1,8 @@
-[Home](/README.md) // [Publications](/publications.md) // [Academic and Employment History](/my_history.md) // [Teaching Experience](/teaching.md)
+[Home](/README.md) // [Publications](/publications.md) // [Academic and Employment History](/my_history.md) // [Teaching Experience](/teaching.md) // [Project Ideas](./project_ideas.md)
 
 # Invited talks and conference presentations
 
-K.I. Turk, "Usability, Abusability, and Safety by Design: Tools for Preemptive Prevention of Interpersonal Harms Through Digital Systems." Presented at Paderborn University (8th January 2026) and the University of Erlangen-Nuremberg (19th January 2026).
+K.I. Turk, "Usability, Abusability, and Safety by Design: Tools for Preemptive Prevention of Interpersonal Harms Through Digital Systems." Presented at Paderborn University (8th January 2026), Leibniz Universität Hannover (9th January 2026), and the University of Erlangen-Nuremberg (19th January 2026).
 
 K.I. Turk and A. Hutchings, ""The Only Gay in the Village": The Experiences of LGBTQ+ Technology-Facilitated Abuse Victims." Presented at the 2nd Gender, Online Safety, and Sexuality Workshop (GOSS) 2025, and the 3rd Cybersecurity and Privacy for Minority and Minoritized People day (CyberMi2) 2025.
 
