@@ -1,4 +1,4 @@
-[Home](/README.md) // [Publications](/publications.md) // [Academic and Employment History](/my_history.md) // [Teaching Experience](/teaching.md)
+[Home](/README.md) // [Publications](/publications.md) // [Academic and Employment History](/my_history.md) // [Teaching Experience](/teaching.md) // [Project Ideas](./project_ideas.md)
 
 # Published Research
 
