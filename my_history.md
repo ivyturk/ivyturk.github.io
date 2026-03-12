@@ -1,11 +1,13 @@
-[Home](/README.md) // [Publications](/publications.md) // [Academic and Employment History](/my_history.md) // [Teaching Experience](/teaching.md)
+[Home](/README.md) // [Publications](/publications.md) // [Academic and Employment History](/my_history.md) // [Teaching Experience](/teaching.md) // [Project Ideas](./project_ideas.md)
 
 # Academic Qualifications
-* PhD Computer Science, 2021-Present, Wolfson College, University of Cambridge.
+* PhD Computer Science, 2021-2026, Wolfson College, University of Cambridge.
+* MA (Cambridge honorary masters), 2024, Gonville and Caius College, University of Cambridge.
 * MEng Hons. Computer Science (Pass with Honours), 2020-2021, Gonville and Caius College, University of Cambridge.
 * BA Hons. Computer Science (1st), 2017-2020, Gonville and Caius College, University of Cambridge.
 
 ## Employment History
+* Postdoctoral Researcher at Ruhr Universität Bochum, April 2026 - present.
 * AP4L Research Fellow at the University of Surrey, March 2025 - September 2025.
 * Student Intern with Damon McCoy at New York University, May - July 2023
 * Security Intern at nCipher (Entrust), July - September 2021
