@@ -3,6 +3,11 @@
 # (Kieron) Ivy Turk
 I am a postdoctoral researcher at Ruhr Universität Bochum, working with Rebekah Overdorf in the [Security and Trustworthiness of Online Information](https://informatik.rub.de/stoi/) group. I work on misuse and harm prevention, primarily looking at evaluation of safety through threat modelling, usability of safety tools with HCI methods, and prototyping novel frameworks that design against adversarial scenarios. I have a strong focus on domestic abuse building on my PhD research, but aim to expand to interpersonal harms more generally.
 
-I was a PhD student at the Department of Computer Science and Technology at the University of Cambridge studying interactions between technology and domestic abuse. This followed two main paths: making it safer for victim-survivors to access support, and creating/improving technical interventions for specific abuses of technology. I was supervised by Alice Hutchings, and part of the Cambridge Cybercrime Centre.
+## News
+- I will be at [CHI](https://chi2026.acm.org/) in Barcelona from 12--17 April, and have a position paper at the [CHI-SIRD Workshop](https://ou-cpwo.github.io/chi-sird-2026/CHI-submission/).
+- I will be presenting at the [Gender and Tech Conference](https://www.genderandtech.net/conference) in London from 19--21 May.
 
-I completed by MEng and BA at Gonville and Caius College Cambridge (2021), and recieved the Cambridge MA (2024), an honorary degree for Cambridge alumni presented three years after graduation of the BA. 
+## Contact
+I can be contacted at:
+- \[RUB - academic\] Ivy.Turk@ruhr-uni-bochum.de
+- \[Encrypted mail\] kieron.ivy@protonmail.com
