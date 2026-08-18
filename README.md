@@ -7,9 +7,9 @@ I am genderfluid (they/she), and have previously published under variations of m
 
 ## News
 - I will be at [SOUPS 2026](https://soups.page/), presenting a poster on abandoned support applications.
+  - Our SOUPS workshop paper on AIG-IBSA forensics is now on [arXiv](https://arxiv.org/abs/2608.14616) !
 - I will be at [Mensch und Computer 2026](https://muc2026.mensch-und-computer.de/) including the content moderation workshop (MCI-W102)
-- Our workshop paper on AI and content moderation is now on [arXiv](https://arxiv.org/abs/2607.12149) !
-- Our SOUPS workshop paper on AIG-IBSA forensics is now on [arXiv](https://arxiv.org/abs/2608.14616) !
+  - Our MuC workshop paper on AI and content moderation is now on [arXiv](https://arxiv.org/abs/2607.12149) !
 
 ## Contact
 I can be contacted at:
