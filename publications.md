@@ -4,6 +4,8 @@ My various publications, loosely sorted by topic. List also maintained on [Googl
 
 ## Technology Misuse
 
+Jasmin Wyss, Anna Neumann, **Ivy Turk**, Rebekah Overdorf, Traces of Abuse: How Generative AI Impacts Image-Based Sexual Abuse (IBSA) Investigations, Accepted at the "Community Building for Researchers on Generative AI-Facilitated Image-Based Abuse" Workshop at SOUPS 2026. [arXiv](https://arxiv.org/abs/2608.14616)
+
 **K.I. Turk**, A. Hutchings, Spy-oT: Understanding How Users Discover Malicious Uses of Internet of Things Devices in Domestic Abuse Scenarios, In Proceedings of the Twenty First Symposium on Usable Privacy and Security (SOUPS 2025) 2025.
 [USENIX](https://www.usenix.org/conference/soups2025/presentation/turk)
 
