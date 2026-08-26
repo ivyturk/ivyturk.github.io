@@ -24,6 +24,7 @@ Paper [ACM](https://dl.acm.org/doi/10.1007/978-3-031-43033-6_9) // [cl.cam](http
 A. Neumann, J. Wyss, **I. Turk**, R. Overdorf, "It is not enough to give your moderation rules to ChatGPT: Policy-as-Prompt Moderation and Its Potential Impacts on Community Governance", Accepted at the Mensch und Computer (MuC) 2026 Workshop "Human-Centered Content Moderation: Expertise, Context & Evaluation", 2026. [arXiv](https://arxiv.org/abs/2607.12149)
 
 ## Safety Tools
+**I. Turk**, J. Wyss, R. Overdorf, "Stop Abandoning Me: Exploring the Landscape of Unmaintained Intimate Partner Abuse Support Applications". Poster at [SOUPS 2026](https://soups.page/2026/postersproc.html#:~:text=Stop%20Abandoning%20Me) // updated extended abstract on [arXiv](https://arxiv.org/abs/2608.23826)
 
 V. Khandkar, **K.I. Turk**, E. Toreini, N. Sastry, "Supporting Socially Constrained Private Communications with SecureWhispers"
 [arXiv](https://arxiv.org/abs/2508.12870)
