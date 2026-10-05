@@ -6,13 +6,15 @@ I am a postdoctoral researcher at Ruhr Universität Bochum, working with Rebekah
 I am genderfluid (they/she), and have previously published under variations of my name that I no longer use.
 
 ## News
-- I will be at [SOUPS 2026](https://soups.page/), presenting a poster on abandoned support applications.
-  - Our SOUPS workshop paper on AIG-IBSA forensics is now on [arXiv](https://arxiv.org/abs/2608.14616) !
-  - Our SOUPS poster extended abstract is available on the [conference site](https://soups.page/2026/postersproc.html#:~:text=Stop%20Abandoning%20Me) (dataset as of May 2026) and an updated version with our August 2026 dataset is on [arXiv](https://arxiv.org/abs/2608.23826) !
-- I will be at [Mensch und Computer 2026](https://muc2026.mensch-und-computer.de/) including the content moderation workshop (MCI-W102)
-  - Our MuC workshop paper on AI and content moderation is now on [arXiv](https://arxiv.org/abs/2607.12149) !
+- I will be attending ACM CCS 2026.
+
+- Our SOUPS workshop paper on AIG-IBSA forensics is now on [arXiv](https://arxiv.org/abs/2608.14616) !
+- Our SOUPS poster extended abstract is available on the [conference site](https://soups.page/2026/postersproc.html#:~:text=Stop%20Abandoning%20Me) (dataset as of May 2026) and an updated version with our August 2026 dataset is on [arXiv](https://arxiv.org/abs/2608.23826) !
+- Our MuC workshop paper on AI and content moderation is now on [arXiv](https://arxiv.org/abs/2607.12149) !
 
 ## Contact
 I can be contacted at:
 - \[RUB - academic\] ivy.turk@rub.de
 - \[Encrypted mail\] kieron.ivy@protonmail.com
+
+My CV is available [here](./IvyTurkCV.pdf), although this website is updated more frequently than my CV.
